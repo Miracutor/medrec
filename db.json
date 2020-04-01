@@ -1,13 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "records": [
+    { "id": 1, "record_date": "2020-01-11", "record_time": "12:39:02" },
+    { "id": 2, "record_date": "2020-02-14", "record_time": "09:22:32" },
+    { "id": 3, "record_date": "2019-01-21", "record_time": "18:11:27" },
+    { "id": 4, "record_date": "2019-03-01", "record_time": "10:33:19" }
+  ], 
   "profile": {
     "name": "typicode"
   }
